@@ -1,0 +1,39 @@
+.d-block{
+object-fit: cover;
+}
+
+footer img{
+    height: 5vw;
+    max-height: 40px;
+}
+
+.botondetalle{
+    margin-top: 25px;
+}
+
+.hola{
+    
+    justify-content:space-between;
+    align-items: end;
+    
+}
+
+.formss{
+    width: 550px;
+    flex-direction: column;
+
+}
+
+.botonsubs{
+    width: 450px;
+    justify-content: end;
+}
+
+.detalles{
+    margin-top: 160px;
+}
+
+#imagenTarget{
+    object-fit: cover;
+    height: 200px;
+}
